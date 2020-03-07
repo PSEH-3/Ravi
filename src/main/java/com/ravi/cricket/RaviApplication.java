@@ -1,4 +1,4 @@
-package com.ravi.test;
+package com.ravi.cricket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,8 +8,6 @@ public class RaviApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RaviApplication.class, args);
-		/*System.out.println("i am runnnig....");
-		while(true);*/
 	}
 
 }
